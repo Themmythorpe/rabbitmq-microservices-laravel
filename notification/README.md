@@ -1,4 +1,4 @@
-git clone <notifications-service-repo-url>
+git clone https://github.com/Themmythorpe/rabbitmq-microservices-laravel.git
 
 
 cd notifications-service

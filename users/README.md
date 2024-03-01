@@ -16,7 +16,7 @@ Before you begin, make sure you have the following installed:
 1. Clone the Users service repository:
 
    ```bash
-   git clone <users-service-repo-url>
+   git clone https://github.com/Themmythorpe/rabbitmq-microservices-laravel.git
 
 
    cd users-service
