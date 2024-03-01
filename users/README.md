@@ -43,7 +43,3 @@ docker-compose up --build
 
 Testing
 php artisan test
-
-
-
-This README provides step-by-step instructions on how to set up and run each microservice locally, as well as optional instructions for running them using Docker Compose. It also includes basic guidance on running tests for both services.
